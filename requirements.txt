@@ -1,0 +1,11 @@
+pandas
+numpy
+scipy
+scikit-learn
+imbalanced-learn
+matplotlib
+joblib
+mlflow
+dvc[gdrive]
+jupyter
+ipykernel
